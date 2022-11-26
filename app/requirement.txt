@@ -1,0 +1,8 @@
+torch
+numpy
+torchvision
+pillow==6.2.0
+matplotlib
+sympy
+rumps
+py2app

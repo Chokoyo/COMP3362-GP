@@ -1,0 +1,8 @@
+torch
+torchvision
+pillow==6.2.0
+nltk
+editdistance
+pandas
+numpy
+matplotlib
